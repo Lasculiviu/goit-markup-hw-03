@@ -3,9 +3,6 @@
         content: "WEB";
         color: blue;
     }
-    .section-background{
-        display: flex;
-    }
-    .container_width-1440px{
-        width:1440px;
-    }
+ .section-background{
+    display:flex
+ }
