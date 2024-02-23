@@ -1,7 +1,7 @@
     .logo::before {
 
         content: "WEB";
-        color: rgb(0, 255, 21);
+        color: blue;
     }
  .section-background{width: 1440px;
    
