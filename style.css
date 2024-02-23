@@ -3,6 +3,12 @@
         content: "WEB";
         color: blue;
     }
- .section-background{
-    justify-content: flex-end;
+ .section-background{width: 1440px;
+   
+ }
+ .section_1{
+    display: flex;
+ }
+ .container_section_1{ width: 1128px;
+
  }
