@@ -5,16 +5,12 @@
     }
  .section_1 {
     
-    justify-content: ;
+    justify-content: flex-CENTER;
 
     background-color: white;
     
-
-      
-    
     width: 1200px;
  }
-
   .nav{
     background-color: white;
     
@@ -22,29 +18,17 @@
        
     }
     
-    
-  
 .order{
-    background-color:#2E2F42;
-    width: 1440px;
-    height: 600px;
-    
-}
-.ordertext{
-    text-align: center;
-    color:white;
-    size: 56px;
-    height: 700;
-    line-height: 60px;
-  
-    
-
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2E2F42;
+        width: 1440px;
+        height: 600px;
 }
 .orderbutton{
     background-color: #4D5AE5;
-margin-left: 650px;
-margin-top: 250px;
-
 }
 .footer{
 width: 1440px ;height: 312px; top: 2280px
