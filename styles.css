@@ -13,10 +13,13 @@
  }
   .nav{
     background-color: white;
-    
+    justify-content: space-between;
+        width: 1200px;
+        display: flex;
+    }
    
        
-    }
+    
     
 .order{
     color: white;
