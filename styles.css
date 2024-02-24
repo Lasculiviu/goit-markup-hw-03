@@ -5,17 +5,25 @@
     }
  .section_1 {
     
-    justify-content: center;
-    background-color: aliceblue;
+    justify-content: ;
+
+    background-color: white;
+    
+
+      
     
     width: 1200px;
  }
 
   .nav{
-    background-color: aqua;
-    width: 1440px;
-
-  }
+    background-color: white;
+    
+   
+       
+    }
+    
+    
+  
 .order{
     background-color:#2E2F42;
     width: 1440px;
@@ -28,7 +36,8 @@
     size: 56px;
     height: 700;
     line-height: 60px;
-    font-family: roboto:700;
+  
+    
 
 }
 .orderbutton{
@@ -36,7 +45,8 @@
 margin-left: 650px;
 margin-top: 250px;
 
+}
+.footer{
+width: 1440px ;height: 312px; top: 2280px
 
-
-    
 }
