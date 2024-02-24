@@ -1,14 +1,42 @@
     .logo::before {
 
         content: "WEB";
-        color: blue;
+        color:blue
     }
- .container_section_1 {
+ .section_1 {
     
     justify-content: center;
+    background-color: aliceblue;
+    
     width: 1200px;
  }
-.nav{
+
+  .nav{
+    background-color: aqua;
     width: 1440px;
-    justify-content: center;
+
+  }
+.order{
+    background-color:#2E2F42;
+    width: 1440px;
+    height: 600px;
+    
+}
+.ordertext{
+    text-align: center;
+    color:white;
+    size: 56px;
+    height: 700;
+    line-height: 60px;
+    font-family: roboto:700;
+
+}
+.orderbutton{
+    background-color: #4D5AE5;
+margin-left: 650px;
+margin-top: 250px;
+
+
+
+    
 }
