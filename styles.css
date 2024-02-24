@@ -3,7 +3,7 @@
         content: "WEB";
         color: blue;
     }
- .section2 {
+ .container_section_1 {
     display: flex;
-    justify-content: c;
+    justify-content: center;
  }
