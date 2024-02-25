@@ -3,12 +3,16 @@
         content: "WEB";
         color:blue
     }
+    .layout{
+        Height:1440px;
+        height: 72px;
+        
+    }
  .section_1 {
-    
+     align-items: center;
+    text-align: center;
     justify-content: flex-CENTER;
-
     background-color: white;
-    
     width: 1200px;
  }
   .nav{
@@ -17,7 +21,6 @@
         width: 1200px;
         display: flex;
         display: flex;
-        
     }
    .nav ul {
        display: flex;
@@ -25,12 +28,10 @@
        padding: 0;
        margin: 0;
    }
-         .nav a {
-             text-decoration: none;
-             color: black;
-         }
-    
-    
+ .nav a {   text-decoration: none;
+             color: black;}
+ 
+            
 .order{
     color: white;
     display: flex;
@@ -39,24 +40,30 @@
     background-color: #2E2F42;
         width: 1440px;
         height: 300px;
-        display: flex;
-        display: flex;
-        display: flex;
             flex-direction: column;
-            /* Afișează elementele într-o coloană */
+           
             align-items: center;
             text-align: center;
-            }
-.orderbutton{
-    padding: 10px 20px;
-        font-size: 1em;
-padding: 10px 20px;
-    font-size: 1em;
+           
+    }
+    .orderbutton {
+    padding: 10px 10px;
+        font-size: 1%;
+        background-color: #4D5AE5;
+     
+        color: #4D5AE5;
     
-    
-}
+        border: #4D5AE5;
+        
+         
+    }
 
 .footer{
 width: 1440px ;height: 312px; top: 2280px
 
 }
+.body-center{margin-left: 40px;
+    list-style: none;
+       
+    }
+
