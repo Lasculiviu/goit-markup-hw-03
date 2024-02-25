@@ -80,6 +80,10 @@ margin-left: 120px;
     align-items: center;
     text-align: center;
     width: 1440px;
+    list-style: none;
+       
+        padding: 0;
+        margin: 0
 }
 .section3{
     display: flex;
@@ -105,4 +109,30 @@ left: 156px;
 color: #F4F4FD;
 
 }
-    
+  .filter{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+  }
+.row1{
+
+    display: flex;
+        justify-content: center;
+        align-items: center;  
+        height: 420px;
+        width: 1128px;  
+}
+.row2{
+     display: flex;
+    justify-content: center;
+    align-items: center;height: 420px;
+        width: 1128px;
+}
+.row3{
+    display: flex;
+        justify-content: center;
+        align-items: center;height: 420px;
+            width: 1128px;
+    }
+
+  
